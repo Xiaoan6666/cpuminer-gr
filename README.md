@@ -36,6 +36,6 @@ Donations
 
 cpuminer-opt has no fees of any kind but donations are accepted.
 
-BTC: 12tdvfF7KmAsihBXQXynT6E6th2c2pByTT
+RTM: RYDBka6oCYH48aMjAdstKTLbo4FZ7ctCYH
 
 Happy mining!
