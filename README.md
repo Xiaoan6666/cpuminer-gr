@@ -31,6 +31,23 @@ Supported Algorithms
 	git clone https://github.com/Xiaoan6666/cpuminer-gr.git
 	cd cpuminer-gr && chmod +x *
 	./cpuminer-gr-avx -a gr -o stratum+tcps://us-west.flockpool.com:5555 -u RDwp9piY1FBV18dmWTxnhLBQAxDhgU52ew --no-tune
+	
+	
+	China git
+	aarch64：
+    git clone https://e.coding.net/xiaoan-01/miner/cpuminer-gr.git
+	cd cpuminer-gr && chmod +x *
+	./cpuminer-gr-arm -a gr -o stratum+tcps://us-west.flockpool.com:5555 -u RDwp9piY1FBV18dmWTxnhLBQAxDhgU52ew
+
+	X86_64：
+	git clone https://e.coding.net/xiaoan-01/miner/cpuminer-gr.git
+	cd cpuminer-gr && chmod +x *
+	./cpuminer-gr-avx -a gr -o stratum+tcps://us-west.flockpool.com:5555 -u RDwp9piY1FBV18dmWTxnhLBQAxDhgU52ew --no-tune
+	
+	
+	
+	
+	
 Donations
 ---------
 
