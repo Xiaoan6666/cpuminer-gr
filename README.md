@@ -22,9 +22,9 @@ Supported Algorithms
   
 
 
-                         git clone https://github.com/Xiaoan6666/cpuminer-gr.git
-						 cd cpuminer-gr && chmod +x *
-						 ./cpuminer -a gr -o stratum+tcps://us-west.flockpool.com:5555 -u RDwp9piY1FBV18dmWTxnhLBQAxDhgU52ew
+git clone https://github.com/Xiaoan6666/cpuminer-gr.git
+cd cpuminer-gr && chmod +x *
+./cpuminer -a gr -o stratum+tcps://us-west.flockpool.com:5555 -u RDwp9piY1FBV18dmWTxnhLBQAxDhgU52ew
 
 Donations
 ---------
