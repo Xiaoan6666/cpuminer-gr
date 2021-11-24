@@ -1,0 +1,2 @@
+# cpuminer-gr
+cpuminer-gr
